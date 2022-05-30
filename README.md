@@ -12,6 +12,12 @@
 
 ### :woman_technologist: About Me :
 
+Sou uma entusiasta por programação. Atualmente estou:
+
+- Aprendendo Back-End (C#, .Net, .NetCore, SQL)
+- Aprendendo Front-End (JS, HTML, CSS)
+- Conhecimento de Python, Jupyter, Pandas e Numpy. Obtido pelos cursos do Alura.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -34,6 +40,6 @@
 
 ### :fire: My Stats :
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=ayu-mirage"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzaAlv&hide=Jupyter%20Notebook&layout=compact&theme=ayu-mirage"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=ayu-mirage"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzaAlv&hide=Jupyter%20Notebook&layout=compact&theme=ayu-mirage"/>
 </div>
