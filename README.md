@@ -26,5 +26,5 @@
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=ayu-mirage)
 
