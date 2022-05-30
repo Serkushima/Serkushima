@@ -27,5 +27,5 @@
 ### :fire: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=ayu-mirage)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayzaAlv&hide=Jupyter Notebook&layout=compact&theme=ayu-mirage)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayzaAlv&hide=Jupyter%20Notebook&layout=compact&theme=ayu-mirage)]
 
