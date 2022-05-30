@@ -8,6 +8,9 @@
   <br><a href='https://www.scaler.com'>Foto criada por Scaler</a></br>
 </div>
 
+### :woman_technologist: About Me :
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -23,6 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 
 ### :fire: My Stats :
 
