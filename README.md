@@ -8,10 +8,11 @@
   <br><a href='https://www.scaler.com'>Foto criada por Scaler</a></br>
 </div>
 
-
+---
 
 ### :woman_technologist: About Me :
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -29,9 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
 
 ### :fire: My Stats :
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=ayu-mirage"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzaAlv&hide=Jupyter%20Notebook&layout=compact&theme=ayu-mirage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=ayu-mirage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzaAlv&hide=Jupyter%20Notebook&layout=compact&theme=ayu-mirage"/>
 </div>
