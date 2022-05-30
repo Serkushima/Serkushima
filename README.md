@@ -10,7 +10,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: Sobre mim :
 
 Sou uma entusiasta por programação. Atualmente estou:
 
@@ -20,7 +20,7 @@ Sou uma entusiasta por programação. Atualmente estou:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Linguagens :
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -38,7 +38,7 @@ Sou uma entusiasta por programação. Atualmente estou:
 
 ---
 
-### :fire: My Stats :
+### :fire: Minhas Estatísticas :
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=ayu-mirage"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzaAlv&hide=Jupyter%20Notebook&layout=compact&theme=ayu-mirage"/>
