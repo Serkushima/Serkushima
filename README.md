@@ -16,7 +16,7 @@ Sou uma entusiasta por programação. Atualmente estou:
 
 - Aprendendo Back-End (C#, .Net, .NetCore, SQL)
 - Aprendendo Front-End (JS, HTML, CSS)
-- Conhecimento de Python, Jupyter, Pandas e Numpy. Obtido pelos cursos do Alura.
+- Aprendendo Python, Jupyter, Pandas e Numpy
 
 ---
 
