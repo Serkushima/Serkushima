@@ -31,7 +31,7 @@
 
 
 ### :fire: My Stats :
-
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=ayu-mirage"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzaAlv&hide=Jupyter%20Notebook&layout=compact&theme=ayu-mirage"/>
-
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=ayu-mirage"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzaAlv&hide=Jupyter%20Notebook&layout=compact&theme=ayu-mirage"/>
+</div>
