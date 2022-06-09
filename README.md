@@ -1,4 +1,4 @@
-<img align="leaft" alt="Gif" height="350" width="1090" style="border-radius:50px;"  src="https://c.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif">
+<img align="leaft" alt="Gif" height="350" width="1090" style="border-radius:50px;"  src="https://steamuserimages-a.akamaihd.net/ugc/1870696542665619929/75C67052A1D55CAFD1974DD992F4A2B65035E18B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayzaAlv&theme=tokyonight"/> 
