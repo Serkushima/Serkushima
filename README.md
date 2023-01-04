@@ -1,4 +1,4 @@
-<img align="ceanter" alt="Gif" height="480" width="270" style="border-radius:50px;"  src="https://media2.giphy.com/media/J3BlD4W2r1mcK1vMWW/giphy.gif">
+<img align="leaft" alt="Gif" height="270" width="480" style="border-radius:50px;"  src="https://media2.giphy.com/media/J3BlD4W2r1mcK1vMWW/giphy.gif">
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkushima&theme=tokyonight"/> 
