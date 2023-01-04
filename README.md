@@ -1,5 +1,5 @@
 <div align="center">
-<img align="middle" alt="Gif" height="350" width="700" style="border-radius:50px;"  src="https://media2.giphy.com/media/J3BlD4W2r1mcK1vMWW/giphy.gif">
+<img align="middle" alt="Gif" height="350" width="700" style="border-radius:50px;"  src"https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif">
 </div>
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkushima&theme=radical"/> 
