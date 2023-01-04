@@ -1,5 +1,6 @@
+<div align="center">
 <img align="middle" alt="Gif" height="270" width="480" style="border-radius:50px;"  src="https://media2.giphy.com/media/J3BlD4W2r1mcK1vMWW/giphy.gif">
-
+</div>
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkushima&theme=tokyonight"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Serkushima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
