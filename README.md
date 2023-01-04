@@ -1,5 +1,5 @@
 <div align="center"> 
-<img align="middle" alt="Gif" height="350" width="700" style="border-radius:50px;"  src"https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif">
+<img align="middle" alt="Gif" height="350" width="700" style="border-radius:50px;"  src"[https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif](https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)">
 </div>
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkushima&theme=radical"/> 
