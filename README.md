@@ -1,16 +1,16 @@
-<img align="leaft" alt="Gif" height="350" width="1090" style="border-radius:50px;"  src="https://steamuserimages-a.akamaihd.net/ugc/1870696542665619929/75C67052A1D55CAFD1974DD992F4A2B65035E18B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="leaft" alt="Gif" height="350" width="1090" style="border-radius:50px;"  src="">
 
 <div align="center">
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayzaAlv&theme=tokyonight"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=MayzaAlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzaAlv&layout=compact&langs_count=7&theme=tokyonight&hide=Jupyter%20Notebook&hide_border=true"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MayzaAlv&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkushima&theme=tokyonight"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Serkushima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serkushima&layout=compact&langs_count=7&theme=tokyonight&hide=Jupyter%20Notebook&hide_border=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Serkushima&theme=tokyonight&hide_border=true"/>
   
 ---
 
 ### A little about me...  <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80">
     Enthusiastic developer. Currently studying:
-      - Learning Back-End (C#, .Net, .NetCore, SQL) 
+      - Learning Back-End ( ) 
       - Learning Front-End (JS, HTML, CSS)
       - Learning Python, Jupyter, Pandas e Numpy
 ---
@@ -36,5 +36,4 @@
 
 ---
   
-![Snake animation](https://github.com/MayzaAlv/MayzaAlv/blob/output/github-contribution-grid-snake.svg)
 </div>
