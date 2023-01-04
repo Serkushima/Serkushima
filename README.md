@@ -2,10 +2,10 @@
 <img align="middle" alt="Gif" height="350" width="700" style="border-radius:50px;"  src="https://media2.giphy.com/media/J3BlD4W2r1mcK1vMWW/giphy.gif">
 </div>
 <div align="center">
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkushima&theme=midnight-purple"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Serkushima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false&hide_border=true"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serkushima&layout=compact&langs_count=7&theme=midnight-purple&hide=Jupyter%20Notebook&hide_border=true"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Serkushima&theme=midnight-purple&hide_border=true"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkushima&theme=radical"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Serkushima&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serkushima&layout=compact&langs_count=7&theme=radical&hide=Jupyter%20Notebook&hide_border=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Serkushima&theme=radical&hide_border=true"/>
   
 ---
 
