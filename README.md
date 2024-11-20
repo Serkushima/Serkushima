@@ -11,7 +11,7 @@
 
 ### A little about me...  <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80">
     Enthusiastic developer. Currently studying:
-      - Learning Back-End (JS, JAVA) 
+      - Learning Back-End (JS, JAVA, KOTLIN) 
       - Learning Front-End (JS, HTML, CSS)
 ---
 
